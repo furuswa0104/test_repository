@@ -1,3 +1,4 @@
 test用にdevelop_1文章を追加しました。
 更に追加。
 11:20分
+githubからmain buranchに書き込み追加
